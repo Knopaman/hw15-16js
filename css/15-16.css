@@ -1,0 +1,10 @@
+#result div {
+
+    display: inline-block;
+    border: 1px solid black;
+}
+
+
+button, input, select, textarea {
+    height: 32px;
+}
